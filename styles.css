@@ -1,0 +1,37 @@
+.navigation .navbar-brand {
+    color: white;
+    margin-left: 35px;
+    padding: 10px;
+    font-weight: bold;
+    background-color:cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color:cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+body {
+    background-color:lightgray;
+}
+
+.container .row {
+    margin-top: 20px;
+}
+
+.Summary {
+    text-align: center;
+}
+
+h5 {
+    color:cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h6 {
+    padding: 35px;
+}
+
